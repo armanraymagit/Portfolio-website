@@ -25,6 +25,11 @@ A modern, fast, and responsive **portfolio website** built using **React** and *
 ## 📂 Project Structure
 
 ```
+backend
+│   ├──db.js/
+│   ├─server.js/
+
+
 Simple-Portfolio/
 ├── public/
 ├── src/
