@@ -52,8 +52,9 @@ cd simple portfolio
 ```
 ```bash
 cd backend
-for backend use
+
 ```
+for backend use
 ### 2️⃣ Install dependencies
 
 ```bash
