@@ -31,9 +31,9 @@ backend
 Simple-Portfolio/
 ├── public/
 ├── src/
-│   ├── components/
-│   ├── constants/
-│   ├── sections/
+│   ├── components
+│   ├── constants
+│   ├── sections
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
