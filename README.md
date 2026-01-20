@@ -28,8 +28,6 @@ A modern, fast, and responsive **portfolio website** built using **React** and *
 backend
 │   ├──db.js/
 │   ├─server.js/
-
-
 Simple-Portfolio/
 ├── public/
 ├── src/
