@@ -47,9 +47,13 @@ Simple-Portfolio/
 
 ```bash
 git clone https://github.com/armanraymagit/Portfolio-website.git
-cd Portfolio-website
-```
+cd simple portfolio
 
+```
+```bash
+cd backend
+for backend use
+```
 ### 2️⃣ Install dependencies
 
 ```bash
