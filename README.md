@@ -29,7 +29,8 @@ Simple-Portfolio/
 ├── public/
 ├── src/
 │   ├── components/
-│   ├── assets/
+│   ├── constants/
+│   ├── sections/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── index.css
